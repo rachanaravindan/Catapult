@@ -1,0 +1,13 @@
+h1{
+  text-align:center;
+  font-size: 60px;
+}
+
+.Register-button{
+  padding:5px;
+  margin:10px;
+  height: 5vh;
+  justify-content: center;
+  margin-left: 30%;
+;
+}
